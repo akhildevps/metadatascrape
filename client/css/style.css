@@ -1,0 +1,38 @@
+body{
+  background-color: #ededed;
+}
+
+article {
+  width: 60%;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 2% 10% 0px  10%;
+  border: 1px solid #ccc;
+  background-color: #fff;
+}
+
+.submit-btn{
+  margin-left:10px;
+}
+
+.result-div{
+  margin-top:20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.error{
+  color: red;
+}
+.result-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 64px;
+}
+#result{
+  margin-left: 20px;
+  padding:0px 10px;
+}
+.form-content{
+  margin-top: 65px;
+}
